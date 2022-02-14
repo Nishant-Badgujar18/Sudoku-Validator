@@ -1,11 +1,24 @@
-# Sudoku-Solver/validator
+# Sudoku-validator/Solver
+
+Simple Sudoku application using python to validate and Solve Sudoku.
+
+# Installation:
+
+1. Clone Respository
+
+    ```makefile
+    $ git clone https://github.com/Nishant-Badgujar18/Sudoku-Validator.git
+    ```
 
 # Run:
 
-Run file:
-python3 sudoku.py
+-   To Run Sudoku Tool
 
-# Authors:
+    ```makefile
+    $ python3 Sudoku_Tool.py
+    ```
 
-* Kimaya Abhyankar (111903041) 
-* Nishant Badgujar (111903053)
+# Authors
+
+* **Kimaya Abhyankar (111903041)** 
+* **Nishant Badgujar (111903053)**
