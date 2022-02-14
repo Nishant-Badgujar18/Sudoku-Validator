@@ -1,4 +1,4 @@
-# Sudoku Solver/validator
+# Sudoku-Solver/validator
 
 # Run:
 
